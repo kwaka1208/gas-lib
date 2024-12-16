@@ -1,4 +1,3 @@
-# gas-mass_gmailer
+# Google Apps Scriptライブラリ
 
-このリポジトリの内容については、以下のページをご覧ください。
-https://zenn.dev/kwaka1208/articles/mail_delivery
+Google Apps Scriptで使える関数などをまとめています。
